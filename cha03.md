@@ -10,8 +10,15 @@ Figuur....: overzicht van objecttypen uit NEN3610:2022
 
 
 In tabelvorm:
+<img width="318" height="261" alt="image" src="https://github.com/user-attachments/assets/a343dbe8-50a4-4463-8299-3068aa6876cb" />
 
-<img width="680" height="419" alt="image" src="https://github.com/user-attachments/assets/4e26da42-7497-4114-8756-54a7d0d396ff" />
+
+
+
+
+
+
+
 
 Als we deze objecttypen mappen op het IMBGT dan ontstaat het volgende beeld. Het hoofdobjecttype Constructie in NEN:22 komt grotendeels overeen met het abstracte hoofdobjecttype Bouwwerk in BGT. Hieronder vallen ook de kunstwerken zoals tunnels en overbruggingen.
 
